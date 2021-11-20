@@ -1,5 +1,6 @@
 {
     "name": "on a banana hunt",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
